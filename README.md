@@ -3,15 +3,11 @@
 
 
 
-
 <br>
 
 
-
 	
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
-
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
+## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiMzFmNGMyYTJiZmQzMGFkZGQwODc3NzY3NjIwYjBiMWY5NGM3OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/BNbm4jKFVC31dYUaoh/giphy.gif" width=50px></picture> **About me**
 
 <br>
 
